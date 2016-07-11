@@ -9,4 +9,4 @@ Plug that url into the .py file.
 
 Using requests and/or pickle, process the url to get the expected results. 
 
-
+My apologies if this process violates any copywright or ownership rights.  I will take this down if so.  This was just an excersise in using python requests to produce some results while trying to manage a json document. 
